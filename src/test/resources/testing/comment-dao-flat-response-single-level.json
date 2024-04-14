@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "user": "km",
+    "body": "main comment 1",
+    "parentId": 0,
+    "replies": 1,
+    "likeCount": 3,
+    "dislikeCount": 1,
+    "created": "08-04-2024 18:15:56",
+    "updated": "08-04-2024 18:15:56",
+    "isDeleted": false
+  },
+  {
+    "id": 2,
+    "user": "rk",
+    "body": "main comment 1",
+    "parentId": 0,
+    "replies": 1,
+    "likeCount": 1,
+    "dislikeCount": 0,
+    "created": "08-04-2024 18:16:23",
+    "updated": "08-04-2024 18:16:23",
+    "isDeleted": false
+  },
+  {
+    "id": 3,
+    "user": "rk",
+    "body": "main comment sub 1",
+    "parentId": 0,
+    "replies": 0,
+    "likeCount": 1,
+    "dislikeCount": 0,
+    "created": "08-04-2024 18:16:45",
+    "updated": "08-04-2024 18:16:45",
+    "isDeleted": false
+  },
+  {
+    "id": 5,
+    "user": "rk",
+    "body": "main comment sub 1",
+    "parentId": 0,
+    "replies": 4,
+    "likeCount": 1,
+    "dislikeCount": 0,
+    "created": "08-04-2024 18:18:25",
+    "updated": "08-04-2024 18:18:25",
+    "isDeleted": false
+  },
+  {
+    "id": 6,
+    "user": "rk",
+    "body": "main comment sub 1",
+    "parentId": 0,
+    "replies": 0,
+    "likeCount": 1,
+    "dislikeCount": 0,
+    "created": "08-04-2024 18:18:52",
+    "updated": "08-04-2024 18:18:52",
+    "isDeleted": false
+  },
+  {
+    "id": 7,
+    "user": "rk",
+    "body": "main comment sub 1",
+    "parentId": 0,
+    "replies": 0,
+    "likeCount": 1,
+    "dislikeCount": 0,
+    "created": "08-04-2024 18:19:18",
+    "updated": "08-04-2024 18:19:18",
+    "isDeleted": false
+  }
+]

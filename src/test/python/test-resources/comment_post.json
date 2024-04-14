@@ -1,0 +1,82 @@
+[
+    {
+        "body": "Test Comment 1",
+        "user": "John Doe",
+        "parentId": "0"
+    },
+    {
+        "body": "Test Comment 2",
+        "user": "Alice Doe",
+        "parentId": "0"
+    },
+    {
+        "body": "Test Comment 3",
+        "user": "Elon Musk",
+        "parentId": "0"
+    },
+    {
+        "body": "Test Comment 4",
+        "user": "MS Dhoni",
+        "parentId": "0"
+    },
+    {
+        "body": "Test Comment 5",
+        "user": "User A",
+        "parentId": "0"
+    },
+    {
+        "body": "Test Comment 6",
+        "user": "User B",
+        "parentId": "0"
+    },
+    {
+        "body": "Test Comment 7",
+        "user": "User C",
+        "parentId": "0"
+    },
+    {
+        "body": "Test Comment 8",
+        "user": "User D",
+        "parentId": "0"
+    },
+    {
+        "body": "Test Comment 9",
+        "user": "User E",
+        "parentId": "0"
+    },
+    {
+        "body": "Test Comment 10",
+        "user": "User F",
+        "parentId": "0"
+    },
+    {
+        "body": "Test Comment 11",
+        "user": "User E",
+        "parentId": "0"
+    },
+    {
+        "body": "Test Sub Comment 1",
+        "user": "Virat Kohli",
+        "parentId": "1"
+    },
+    {
+        "body": "Test Nested Comment 1",
+        "user": "Babar Azam",
+        "parentId": "12"
+    },
+    {
+        "body": "Test Sub Comment 2",
+        "user": "Bill Gates",
+        "parentId": "1"
+    },
+    {
+        "body": "Test Sub Comment 3",
+        "user": "Karan Mittal",
+        "parentId": "1"
+    },
+    {
+        "body": "Test Nested Comment 1",
+        "user": "Virat Kohli",
+        "parentId": "1"
+    }
+]

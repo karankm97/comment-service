@@ -1,0 +1,42 @@
+[
+    {
+        "commentId": 1,
+        "user": "Virat Kohli",
+        "reactionType": "LIKE"
+    },
+    {
+        "commentId": 1,
+        "user": "John Doe",
+        "reactionType": "LIKE"
+    },
+    {
+        "commentId": 1,
+        "user": "Alice Doe",
+        "reactionType": "LIKE"
+    },
+    {
+        "commentId": 1,
+        "user": "User F",
+        "reactionType": "LIKE"
+    },
+    {
+        "commentId": 1,
+        "user": "Anil Kumble",
+        "reactionType": "LIKE"
+    },
+    {
+        "commentId": 1,
+        "user": "Babar Azam",
+        "reactionType": "DISLIKE"
+    },
+    {
+        "commentId": 1,
+        "user": "Rick G",
+        "reactionType": "DISLIKE"
+    },
+    {
+        "commentId": 1,
+        "user": "Rema Sky",
+        "reactionType": "DISLIKE"
+    }
+]

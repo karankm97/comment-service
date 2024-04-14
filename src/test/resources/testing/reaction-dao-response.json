@@ -1,0 +1,26 @@
+[
+  {
+    "createdAt": "08-04-2024 19:28:31",
+    "id": {
+      "commentId": 1,
+      "user": "John Doe"
+    },
+    "reactionType": "LIKE"
+  },
+  {
+    "createdAt": "08-04-2024 19:28:28",
+    "id": {
+      "commentId": 1,
+      "user": "Foo Bar"
+    },
+    "reactionType": "LIKE"
+  },
+  {
+    "createdAt": "08-04-2024 18:20:26",
+    "id": {
+      "commentId": 1,
+      "user": "Elon Musk"
+    },
+    "reactionType": "LIKE"
+  }
+]
